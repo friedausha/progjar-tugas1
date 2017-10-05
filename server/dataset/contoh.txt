@@ -1,0 +1,3 @@
+Halo
+Ini adalah contoh file yang dikirim dari server
+xoxo
